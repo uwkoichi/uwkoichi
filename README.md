@@ -1,10 +1,18 @@
 <img alt="top langs" width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=DDFFE5&height=300&section=header&text=Hi%20My%20name%20is%20Koichi%20Akama%20👋&fontSize=45">
 
 
-[![](https://raw.githubusercontent.com/uwkoichi/uwkoichi/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/uwkoichi/uwkoichi/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/uwkoichi/uwkoichi/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/uwkoichi/uwkoichi/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/uwkoichi/uwkoichi/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### My Github Stats
 
+<p align="center"> 
+  <img width="100%" text-align="center" src="https://raw.githubusercontent.com/uwkoichi/uwkoichi/master/profile-summary-card-output/github/0-profile-details.svg">
+</p>
+
+
+<p align="center"> 
+  <img width="33%" src="https://raw.githubusercontent.com/uwkoichi/uwkoichi/master/profile-summary-card-output/github/1-repos-per-language.svg">
+  <img width="33%" src="https://raw.githubusercontent.com/uwkoichi/uwkoichi/master/profile-summary-card-output/github/2-most-commit-language.svg">
+  <img width="33%" src="https://raw.githubusercontent.com/uwkoichi/uwkoichi/master/profile-summary-card-output/github/3-stats.svg">
+</p>
 
 ### My Tech Stack
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/></a>
