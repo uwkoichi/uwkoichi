@@ -1,6 +1,3 @@
-<img alt="top langs" width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=DDFFE5&height=300&section=header&text=Hi,%20my%20name%20is%20Koichi%20Akama.%20👋&fontSize=45">
-
-
 ### My Github Stats
 
 <p align="center"> 
